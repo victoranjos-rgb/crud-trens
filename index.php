@@ -1,3 +1,10 @@
+<?php
+
+session_start();
+
+require 'conexao.php';
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
